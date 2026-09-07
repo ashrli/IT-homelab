@@ -68,4 +68,3 @@ gespeichert (F10) → neu gestartet.
 - Was AMD-V / SVM Mode ist und warum 
   Hardware-Virtualisierung im BIOS aktiviert 
   sein muss
-- Wie man im Gigabyte Aorus BIOS navigiert
